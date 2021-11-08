@@ -52,11 +52,11 @@ function main()
 		window.open("https://youtube.com/channel/UClHNwSY_mM-G2fi8jSBWB2Q", "_blank");
 	}
 
-	else if (FormatInput.includes("open light-lens"))
+	else if (FormatInput.includes("open Swapnil"))
 	{
 		// "https://" is important!
-		ResponseText_val.innerHTML = "Opening Light-Lens on Github";
-		window.open("https://github.com/Light-Lens", "_blank");
+		ResponseText_val.innerHTML = "Opening Swapnil's form on Github";
+		window.open("https://3in1rajeshswapnilomm.github.io/swapnipoyy/", "_blank");
 	}
 
 	else
