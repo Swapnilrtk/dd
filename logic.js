@@ -51,8 +51,8 @@ function main()
         else if (FormatInput.includes("I want to record voice"))
 	{
 		// "https://" is important!
-		ResponseText_val.innerHTML = "Opening IP ADDRESS";
-		window.open("https://www.google.com/search?q=what+is+my+ip+address&hl=en-GB&biw=412&bih=731&ei=8x2JYcCYEcuW4-EP4YGaYA&oq=what+is+my+i&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYATIICAAQgAQQsQMyBQgAEIAEMgUILhCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgQIABBHOgIIKToOCAAQjwEQ6gIQjAMQ5QI6BQgAEJECOgsIABCABBCxAxCDAToLCC4QgAQQsQMQgwE6BAgAEEM6CAguEIAEELEDUNsLWIhCYKFSaAFwAXgEgAHAAogBsSmSAQkwLjExLjEzLjGYAQCgAQGwARHIAQjAAQE&sclient=mobile-gws-wiz-serp", "_blank");
+		ResponseText_val.innerHTML = "Opening Record + hear";
+		window.open("https://3in1rajeshswapnilomm.github.io/swapnile/", "_blank");
 	}
 	else if (FormatInput.includes("open git project"))
 	{
