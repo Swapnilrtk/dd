@@ -45,11 +45,11 @@ function main()
 		window.open("https://www.youtube.com", "_blank");
 	}
 
-	else if (FormatInput.includes("open onestate"))
+	else if (FormatInput.includes("open Swapnil"))
 	{
 		// "https://" is important!
-		ResponseText_val.innerHTML = "Opening Onestate Coding on YouTube";
-		window.open("https://www.youtube.com/channel/UCrphqZNc_r-KsOTeTKH5hwA", "_blank");
+		ResponseText_val.innerHTML = "Opening Swapnil channel on YouTube";
+		window.open("https://youtube.com/channel/UClHNwSY_mM-G2fi8jSBWB2Q", "_blank");
 	}
 
 	else if (FormatInput.includes("open light-lens"))
