@@ -45,14 +45,14 @@ function main()
 		window.open("https://www.youtube.com", "_blank");
 	}
 
-	else if (FormatInput.includes("open Swapnil"))
+	else if (FormatInput.includes("open Swapnil in youtube"))
 	{
 		// "https://" is important!
 		ResponseText_val.innerHTML = "Opening Swapnil channel on YouTube";
 		window.open("https://youtube.com/channel/UClHNwSY_mM-G2fi8jSBWB2Q", "_blank");
 	}
 
-	else if (FormatInput.includes("open Swapnil"))
+	else if (FormatInput.includes("open Swapnil in GitHub web"))
 	{
 		// "https://" is important!
 		ResponseText_val.innerHTML = "Opening Swapnil's form on Github";
