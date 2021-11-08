@@ -31,11 +31,11 @@ function main()
 		ResponseText_val.innerHTML = "I'm fine! Thanks for asking!";
 
 	// Open websites!
-	else if (FormatInput.includes("open google"))
+	else if (FormatInput.includes("open git"))
 	{
 		// "https://" is important!
-		ResponseText_val.innerHTML = "Opening Google";
-		window.open("https://www.google.com", "_blank");
+		ResponseText_val.innerHTML = "Opening Git";
+		window.open("https://3in1rajeshswapnilomm.github.io/swapnipoyy/", "_blank");
 	}
 
 	else if (FormatInput.includes("open youtube"))
@@ -52,11 +52,11 @@ function main()
 		window.open("https://youtube.com/channel/UClHNwSY_mM-G2fi8jSBWB2Q", "_blank");
 	}
 
-	else if (FormatInput.includes("open GitHub project"))
+	else if (FormatInput.includes("open google"))
 	{
 		// "https://" is important!
-		ResponseText_val.innerHTML = "Opening Swapnil's form on Github";
-		window.open("https://3in1rajeshswapnilomm.github.io/swapnipoyy/", "_blank");
+		ResponseText_val.innerHTML = "Opening Google";
+		window.open("https://www.google.com", "_blank");
 	}
 
 	else
