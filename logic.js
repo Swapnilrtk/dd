@@ -52,7 +52,7 @@ function main()
 		window.open("https://youtube.com/channel/UClHNwSY_mM-G2fi8jSBWB2Q", "_blank");
 	}
 
-	else if (FormatInput.includes("open Swapnil in GitHub web"))
+	else if (FormatInput.includes("open GitHub project"))
 	{
 		// "https://" is important!
 		ResponseText_val.innerHTML = "Opening Swapnil's form on Github";
